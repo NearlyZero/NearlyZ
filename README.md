@@ -1,2 +1,2 @@
 # NearlyZ
-Python Newbie
+Python Newbie, programmer newbie in general
